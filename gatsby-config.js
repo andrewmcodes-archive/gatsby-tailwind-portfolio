@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/andrewmcodes/gatsby-tailwind-portfolio",
+  pathPrefix: "/andrewmcodes/gatsby-tailwind-portfolio/public",
   siteMetadata: {
     title: 'Andrew Mason',
   },
